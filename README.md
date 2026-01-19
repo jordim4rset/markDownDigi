@@ -1,4 +1,6 @@
-# Sistemas Cloud
+# SISTEMAS CLOUD
+[Link](https://www.daemon4.com/empresa/noticias/ventajas-del-cloud-computing-servicio-en-la-nube/).
+
 
 ## MIGRACIÓN A LA NUBE
 
@@ -106,7 +108,26 @@ los sistemas modernos operan a lo largo de un continuo. Los datos se generan en 
 
 ## Eligiendo la Heraramienta Adecuada para cada tarea
 
+La eficiencia de un sistema digital depende de procesar los datos en la capa correcta. No hay una solución unica
+
+Se debe utilizar ***Mist/Edge*** cuando necesitemos una respuesta instantania, tengamos una conexión a internet inestable o inexistente, datos sensibles y necesitemos autonomía.
+
+Se debe utilizar ***FOG*** cuando necesitemos coordinar múltiples dispositivos edge en un área local, requerimos un procesamiento de datos, antes de enviarlos a la nube, y necesitamos una respuesta rápidan pero no instantánea.
+
+Se debe utilizar ***CLOUD*** cuando queremos almacenar grandes volúmenes de datos históricos, procesamientos complejos y insensibles al tiempo o requiramos herramientas de colaboración y acceso desde múltiples ubicaciones.
 
 
+## CONSTRUYENDO SISTEMAS DIGITALES INTELIGENTES Y RESILIENTES
 
+La arquitectura del futuro no es ni centralizada ni descentralizada, es híbrida y distribuida.
+Combina el poder de la nube, con la agilidad del edge, fog y mist, podemos crear sistemas que son simultáneamente potentes, rápidos, seguros y eficientes.
+
+1- Captura y respuesta en tiempo real (Edge/Mist)
+2- Agregación y análisis local (Fog)
+3- Análisis profundo y re-entrenamiento de modelos de IA (Cloud)
+4- Los nuevos modelos y la lógica de negocio se despliegan de vuelta al Edge.
+
+## EL FUTURO ES UN PAISAJE COMPUTACIONAL HÍBRIDO
+
+El paradigma ha cambiado. Ya no se trata de elegir 'donde' computar, sino de entender todo, desde el núcleo centralizado de la nube, hasta la periferia inmediata del dispositivo. La cosa es dominar este paisaje para diseñar la próxima generación de tecnología, desde la IA hasta las experciencias inmersivas del mañana.
 
