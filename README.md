@@ -1,6 +1,6 @@
 # SISTEMAS CLOUD
-[Link](https://www.daemon4.com/empresa/noticias/ventajas-del-cloud-computing-servicio-en-la-nube/).
 
+![Nube](nube.jpg)
 
 ## MIGRACIÓN A LA NUBE
 
@@ -110,7 +110,7 @@ los sistemas modernos operan a lo largo de un continuo. Los datos se generan en 
 
 La eficiencia de un sistema digital depende de procesar los datos en la capa correcta. No hay una solución unica
 
-Se debe utilizar ***Mist/Edge*** cuando necesitemos una respuesta instantania, tengamos una conexión a internet inestable o inexistente, datos sensibles y necesitemos autonomía.
+Se debe utilizar ***Mist/Edge*** cuando necesitemos una respuesta instantanea, tengamos una conexión a internet inestable o inexistente, datos sensibles y necesitemos autonomía.
 
 Se debe utilizar ***FOG*** cuando necesitemos coordinar múltiples dispositivos edge en un área local, requerimos un procesamiento de datos, antes de enviarlos a la nube, y necesitamos una respuesta rápidan pero no instantánea.
 
