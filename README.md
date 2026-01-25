@@ -1,7 +1,5 @@
 # SISTEMAS CLOUD
 
-![Nube](nube.jpg)
-
 ## MIGRACIÓN A LA NUBE
 
 La transformación digital ya no es una opción. Migrar la nube se ha convertido en un paso esencial para las empresas que buscan mejorar su agilidad, eficiencia y competitividad. Con el objetivo de utilizar la tecnología para entender de mejor manera al cliente y optimizar operaciones de mercado.
